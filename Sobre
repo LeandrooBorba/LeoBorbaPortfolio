@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Profissional | Sobre Mim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="navbar">
+            <div class="logo">LeoBorba<span class="gradient-text">Portfólio</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html" class="active">Sobre</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="content-container">
+        <section class="about-section">
+            <div class="page-title-center">
+                <h1>Sobre <span class="gradient-text">Mim</span></h1>
+            </div>
+
+            <div class="profile-grid">
+                <article class="bio-card">
+                    <div class="bio-header">
+                        <div class="profile-image-container">
+                            <img src="foto.jpg" alt="Sua Foto de Perfil" class="profile-img">
+                        </div>
+                        <div>
+                            <h2>Quem <span class="gradient-text">Eu Sou</span></h2>
+                        </div>
+                    </div>
+                    <p>Sou um homem apaixonado pela tecnologia e inovação, atualmente curso ciência da computação na CESAR School e busco oportunidades de estágio.</p>
+                    <p>Sempre em busca de conhecimento e mais aprendizado.</p>
+                </article>
+                
+                <article class="skills-card">
+                    <h2>Minhas <span class="gradient-text">Competências</span></h2>
+                    <p class="skills-intro">Tecnologias e ferramentas que venho dominando e aplicando nos meus estudos:</p>
+                    <ul class="skills-tags">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>Python</li>
+                        <li>Git & GitHub</li>
+                        <li>Inglês intermediário</li>
+                    </ul>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 - Desenvolvido com dedicação. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
