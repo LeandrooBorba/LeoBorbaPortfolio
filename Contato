@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Profissional | Contato</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="navbar">
+            <div class="logo">LeoBorba<span class="gradient-text">Portfólio</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="contato.html" class="active">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="content-container">
+        <section class="contact-section">
+            <div class="page-title-center">
+                <h1>Vamos nos <span class="gradient-text">conectar?</span></h1>
+                <p>Escolha a forma que preferir para conversar comigo. Estou disponível nas redes e canais abaixo.</p>
+            </div>
+            
+            <div class="contact-links-grid">
+                
+                <article class="contact-card-item">
+                    <div class="contact-icon">✉️</div>
+                    <h2>E-mail</h2>
+                    <p>Para propostas formais ou dúvidas</p>
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=borbaleandro26@gmail.com" target="_blank" rel="noopener" class="contact-link-btn">borbaleandro26@gmail.com</a>
+                </article>
+
+                <article class="contact-card-item">
+                    <div class="contact-icon">📸</div>
+                    <h2>Instagram</h2>
+                    <p>Acompanhe meu dia a dia</p>
+                    <a href="https://instagram.com/leandroborba_" target="_blank" rel="noopener" class="contact-link-btn">@leandroborba_</a>
+                </article>
+
+                <article class="contact-card-item">
+                    <div class="contact-icon">💬</div>
+                    <h2>WhatsApp / Celular</h2>
+                    <p>Conversas rápidas e mensagens</p>
+                    <a href="https://wa.me/5581994719630" target="_blank" rel="noopener" class="contact-link-btn">(81) 99471-9630</a>
+                </article>
+
+                <article class="contact-card-item">
+                    <div class="contact-icon">💼</div>
+                    <h2>LinkedIn</h2>
+                    <p>Conexões profissionais e currículo</p>
+                    <a href="https://www.linkedin.com/in/leandro-borba-6676383bb/?skipRedirect=true" target="_blank" rel="noopener" class="contact-link-btn">Meu perfil</a>
+                </article>
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 - Desenvolvido com dedicação. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
