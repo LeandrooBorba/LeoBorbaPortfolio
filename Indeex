@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Profissional | Início</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <nav class="navbar">
+            <div class="logo">LeoBorba<span class="gradient-text">Portfólio</span></div>
+            <ul class="nav-links">
+                <li><a href="index.html" class="active">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="projetos.html">Projetos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="hero-container">
+        <section class="hero-card">
+            <span class="badge-status">⚡ Programador em desenvolvimento</span>
+            <h1>Desenvolvendo interfaces funcionais que conectam <span class="gradient-text">ideias e tecnologia</span></h1>
+            <p>Estudante de Ciência da Computação na CESAR School</p>
+            
+            <div class="cta-actions">
+                <button id="btn-saudacao" class="btn-primary">?</button>
+            </div>
+            
+            <p id="mensagem-saudacao" class="hidden"></p>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 - Desenvolvido com dedicação. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
