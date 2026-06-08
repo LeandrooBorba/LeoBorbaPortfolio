@@ -22,13 +22,3 @@ O portfólio foi construído utilizando as seguintes tecnologias:
 ## 📁 Projetos
 
 No site, você encontrará os meus primeiros projetos acadêmicos e pessoais. A ideia é atualizar esta seção constantemente à medida que eu avançar no curso e dominar novas ferramentas!
-
----
-
-## 🚀 Como rodar o projeto localmente
-
-Se quiser dar uma olhada no código e rodar na sua máquina:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
